@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/pestana-catumbela">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pestana-catumbela&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pestana-catumbela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestana-catumbela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
