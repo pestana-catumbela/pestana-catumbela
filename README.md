@@ -1,10 +1,4 @@
-### Olá Pessoal, eu sou Pestana Catumbela (Web Developer) 👋
-
-<!--
-**pestana-catumbela/pestana-catumbela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+### Hi guys, I'm Pestana Catumbela (Frontend Developer) 👋
 
 <div align="center">
   <a href="https://github.com/pestana-catumbela">
