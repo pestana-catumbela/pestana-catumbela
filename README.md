@@ -1,4 +1,4 @@
-### Hi guys, I'm Pestana Catumbela (Frontend Developer) 👋
+### Hi guys, I'm Pestana Catumbela (Web Developer) 👋
 
 <div align="center">
   <a href="https://github.com/pestana-catumbela">
