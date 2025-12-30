@@ -1,4 +1,5 @@
-### Hi guys, I'm Pestana Catumbela (Web Developer) 👋
+### Hello guys 👋 Welcome to my profile!
+### I'm Pestana Catumbela, a Software Developer 🧑‍💻 💻
 
 <div align="center">
   <a href="https://github.com/pestana-catumbela">
