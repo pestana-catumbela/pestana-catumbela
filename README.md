@@ -1,4 +1,4 @@
-## Hello guys 👋 Welcome to my profile!
+#### Hello guys 👋 Welcome to my profile!
 ### I'm Pestana Catumbela, a Software Developer 🧑‍💻 💻
 
 <div align="center">
