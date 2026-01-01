@@ -1,13 +1,7 @@
 #### Hello guys 👋 Welcome to my profile!
 #### I'm Pestana Catumbela, a Software Developer 🧑‍💻 💻
 
-<div>
-  <div align="center">
-    <a href="https://github.com/pestana-catumbela">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pestana-catumbela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestana-catumbela&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-    
+<div>  
   <div style="display: inline_block" width="50%"><br>
     <img align="center" alt="PPC-GITHUB" height="52" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img align="center" alt="PPC-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
